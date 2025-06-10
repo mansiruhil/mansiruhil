@@ -9,9 +9,9 @@
 
 - cs ug '27
   
-- How to reach me: [Mail Me](mailto:mansiruhil99@gmail.com)
-
-- Portfolio: [Portfolio](https://mansiruhil.vercel.app/)
+- How to reach me:
+  [Mail Me](mailto:mansiruhil99@gmail.com)
+  [Portfolio](https://mansiruhil.vercel.app/)
 
 <br>
 <br>
