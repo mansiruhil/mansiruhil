@@ -7,7 +7,7 @@
 
 **About ME**
 
-- cs ug '27
+- computer science undergrad
   
 - How to reach me:
   [Mail Me](mailto:mansiruhil99@gmail.com) and
