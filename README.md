@@ -9,7 +9,7 @@
 
 - computer science undergrad
   
-- How to reach me:
+- how to reach me:
   [Mail Me](mailto:mansiruhil99@gmail.com) and
   [Portfolio](https://mansiruhil.vercel.app/)
 
