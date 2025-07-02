@@ -7,7 +7,7 @@
 
 - computer science undergrad @ banasthali vidyapeeth '27
   
-- how to reach me:
+- how to reach me: <br>
   [mail me !](mailto:mansiruhil99@gmail.com) <br>
   [welcome to UwUntu (my pow) :)](https://mansiruhil.vercel.app/)
 
