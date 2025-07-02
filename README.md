@@ -1,15 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd83f6&height=90&section=header"/>
 
 <img align="right" width="360" src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg">
-<br>
-<br>
+<br><br>
 
 **About ME**
 
 - computer science undergrad @ banasthali vidyapeeth '27
   
 - how to reach me:
-  [mail me !](mailto:mansiruhil99@gmail.com) and
+  [mail me !](mailto:mansiruhil99@gmail.com) <br>
   [welcome to UwUntu (my pow) :)](https://mansiruhil.vercel.app/)
 
 <br>
