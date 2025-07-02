@@ -30,7 +30,7 @@ def dsa():
 <br>
 <br>
 
-<img src="https://gitroll.io/api/badges/profiles/v1/u9saBZAGw5lbMfbTu7GuYDlfeVgt2" alt="info" /><br /><p align="center"><img src="https://holopin.me/mansiruhil13" alt="cover" /><img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansiruhil&langs_count=100&layout=compact&show_icons=true&include_all_commits=true&count_private=true&custom_title=Programming+Langauges&bg_color=ffffff00&title_color=c9d1d9&border_color=262626&text_color=c9c5c5&border_radius=3" width="100%" alt="Top languages" /><br/><br/><img src="https://github-profile-trophy.vercel.app/?username=mansiruhil&no-bg=true&no-frame=false&theme=buddhism&margin-h=15&margin-w=15&column=3" alt="Trophies" width="100%" /><br/><img alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&theme=github-compact" /></p></a><hr />
+<img src="https://gitroll.io/api/badges/profiles/v1/u9saBZAGw5lbMfbTu7GuYDlfeVgt2" alt="info" /><br /><p align="center"><img src="https://holopin.me/mansiruhil13" alt="cover" /><img src="https://github-readme-stats.vercel.app/api?username=mansiruhil&show_icons=true&layout=compact"><img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansiruhil&langs_count=100&layout=compact&show_icons=true&include_all_commits=true&count_private=true&custom_title=Programming+Langauges&bg_color=ffffff00&title_color=c9d1d9&border_color=262626&text_color=c9c5c5&border_radius=3" width="100%" alt="Top languages" /><br/><br/><img src="https://github-profile-trophy.vercel.app/?username=mansiruhil&no-bg=true&no-frame=false&theme=buddhism&margin-h=15&margin-w=15&column=3" alt="Trophies" width="100%" /><br/><img alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&theme=github-compact" /></p></a><hr />
 
 
 <br>
@@ -99,16 +99,6 @@ def dsa():
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansiruhil&show_icons=true&layout=compact)
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&layout=compact-84&true&hide_border=true" />
-</div>
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil&show_icons=true&locale=en&layout=compact"/>
-</div>
 
 </details>
 
