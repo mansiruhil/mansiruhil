@@ -29,7 +29,7 @@ def dsa():
 
 <br>
 <br>
-<a href="https://github.com/mansiruhil?tab=repositories" align="center"><p align="center">
+<a href="https://github.com/mansiruhil?tab=repositories" align="center"><p align="center"><p align="center"><img src="https://github.com/mansiruhil/mansiruhil/assets/69188140/edb61f7f-465b-4201-9039-877461457d54" alt="cover" />
 
 <br>
 <br>
