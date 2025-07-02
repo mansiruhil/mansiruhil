@@ -2,7 +2,6 @@
 
 <img align="right" width="360" src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg">
 <br>
-
 <br>
 
 **About ME**
@@ -11,7 +10,7 @@
   
 - how to reach me:
   [mail me !](mailto:mansiruhil99@gmail.com) and
-  [welcome to UwUntu :)](https://mansiruhil.vercel.app/)
+  [welcome to UwUntu (my pow) :)](https://mansiruhil.vercel.app/)
 
 <br>
 <br>
