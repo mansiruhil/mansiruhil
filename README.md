@@ -7,16 +7,14 @@
 
 **About ME**
 
-- computer science undergrad
+- computer science undergrad @ banasthali vidyapeeth '27
   
 - how to reach me:
-  [Mail Me](mailto:mansiruhil99@gmail.com) and
-  [Portfolio](https://mansiruhil.vercel.app/)
+  [mail me !](mailto:mansiruhil99@gmail.com) and
+  [welcome to UwUntu :)](https://mansiruhil.vercel.app/)
 
 <br>
 <br>
-
-
 
 ```python
 def dsa():
@@ -26,18 +24,14 @@ def dsa():
         solve(problem)
         optimize(solution)
 ```
-
-<br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=mansiruhil&show_icons=true&layout=compact">
 <img src="https://gitroll.io/api/badges/profiles/v1/u9saBZAGw5lbMfbTu7GuYDlfeVgt2" alt="info" /><br /><p align="center"><img src="https://holopin.me/mansiruhil13" alt="cover" /><img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansiruhil&langs_count=100&layout=compact&show_icons=true&include_all_commits=true&count_private=true&custom_title=Programming+Langauges&bg_color=ffffff00&title_color=c9d1d9&border_color=262626&text_color=c9c5c5&border_radius=3" width="100%" alt="Top languages" /><br/><br/><img src="https://github-profile-trophy.vercel.app/?username=mansiruhil&no-bg=true&no-frame=false&theme=buddhism&margin-h=15&margin-w=15&column=3" alt="Trophies" width="100%" /><br/><img alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=mansiruhil&theme=github-compact" /></p></a><hr />
 
-
-<br>
 <br>
 
 <details>
-<summary>Tools & Technology:</summary>
+<summary>my stacks:</summary>
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
@@ -94,18 +88,8 @@ def dsa():
 </table>
 </details>
 
-<details>
-<summary>Github Stats:</summary>
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansiruhil&show_icons=true&layout=compact)
-
-</details>
-
 <h3 align="left">Support:</h3>
 
 <p><a href="https://buymeacoffee.com/mansiruhil1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/></a></p><br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd83f6&height=80&section=footer"/>
-
-
