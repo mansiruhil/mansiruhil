@@ -5,7 +5,7 @@
 
 **About ME**
 
-- computer science undergrad @ banasthali vidyapeeth '27
+- computer science undergrad 
   
 - how to reach me: <br>
   [mail me !](mailto:mansiruhil99@gmail.com) <br>
