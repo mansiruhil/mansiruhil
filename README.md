@@ -5,17 +5,14 @@
 
   I'm cs major @banasthali vidyapith '27 and curious how machine think (and how not to) and besides tech, I love music and watching F1 :)
   
-  [mail me :](mailto:mansiruhil99@gmail.com) <br>
-  [you can find my UwUntu theme portfolio here :](https://mansiruhil.vercel.app/) <br>
-  [linkedin :](https://www.linkedin.com/in/mansi-ruhil-7a00a0228/)
+  [mail me ](mailto:mansiruhil99@gmail.com) <br>
+  [you can find my UwUntu theme portfolio here ](https://mansiruhil.vercel.app/) <br>
+  [linkedin ](https://www.linkedin.com/in/mansi-ruhil-7a00a0228/)
 
   currently working on : <br>
   - data structures & algorithms in C++ 
   - machine learning fundamentals
   - agentic AI & LLM reasoning
-
-<br>
-<br>
 
 *my cute lil' hashmap <3 (O(1) always)*
 
