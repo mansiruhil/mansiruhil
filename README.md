@@ -3,13 +3,7 @@
 <img align="right" width="360" src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg">
 <br><br>
 
-
-**About ME**
-  
-- learning how machine think (and how not to) !!!
-  
-- how to reach me: <br>
-  [mail me !](mailto:mansiruhil99@gmail.com) <br>
+  [mail !](mailto:mansiruhil99@gmail.com) <br>
   [UwUntu theme portfolio !](https://mansiruhil.vercel.app/)
 
 <br>
