@@ -89,10 +89,6 @@ class HashMap:
       <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
       <br>CSS
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
-      <br>Flutter
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
