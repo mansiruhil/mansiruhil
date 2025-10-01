@@ -5,7 +5,7 @@
 
   I'm cs major and curious how machine think (and how not to) and besides tech, I love music and F1 !
   
-  [mail me ](mailto:mansiruhil99@gmail.com) <br>
+  [mail me ](mailto:mansiruhil@hotmail.com) <br>
   [my portfolio :)](https://mansiruhil.vercel.app/) <br>
   [linkedin ](https://www.linkedin.com/in/mansi-ruhil-7a00a0228/)
 
