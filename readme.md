@@ -18,6 +18,10 @@
 <br>
 <br>
 
+![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<br>
+
+
 *my cute lil' hashmap <3 (O(1) always)*
 
 ```python
